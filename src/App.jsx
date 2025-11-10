@@ -211,8 +211,8 @@ export default function App() {
           </div>
         </section>
 
-        <section id="product" class="bg-black justify-self-center text-white">
-          <div class="w-full max-w-[1280px] flex flex-col px-4 py-16 gap-8">
+        <section id="product" class="bg-black text-white">
+          <div class="w-full max-w-[1280px] justify-self-center flex flex-col px-4 py-16 gap-8">
             <h2 class="text-3xl font-bold mx-auto">Produk Terbaik</h2>
             <div class="w-full grid grid-cols-1 md:grid-cols-[19rem_19rem_19rem] gap-4 justify-center">
               <article class="p-6 w-76 gap-4 bg-white flex flex-col rounded-2xl text-black place-self-center">
